@@ -10,8 +10,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/tsuna/gohbase/filter"
-	"github.com/tsuna/gohbase/regioninfo"
+	"github.com/VividCortex/gohbase/filter"
+	"github.com/VividCortex/gohbase/regioninfo"
 	"golang.org/x/net/context"
 )
 

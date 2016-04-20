@@ -9,10 +9,10 @@ import (
 	"sync"
 	"unsafe"
 
-	"github.com/golang/protobuf/proto"
-	"github.com/tsuna/gohbase/filter"
-	"github.com/tsuna/gohbase/pb"
-	"github.com/tsuna/gohbase/regioninfo"
+	"github.com/VividCortex/gohbase/filter"
+	"github.com/VividCortex/gohbase/pb"
+	"github.com/VividCortex/gohbase/regioninfo"
+	"github.com/VividCortex/protobuf/proto"
 	"golang.org/x/net/context"
 )
 

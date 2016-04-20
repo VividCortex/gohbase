@@ -14,8 +14,8 @@ import (
 	"path"
 	"strings"
 
-	"github.com/tsuna/gohbase"
-	"github.com/tsuna/gohbase/hrpc"
+	"github.com/VividCortex/gohbase"
+	"github.com/VividCortex/gohbase/hrpc"
 	"golang.org/x/net/context"
 )
 

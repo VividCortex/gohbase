@@ -10,9 +10,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/golang/protobuf/proto"
-	"github.com/tsuna/gohbase/pb"
-	. "github.com/tsuna/gohbase/regioninfo"
+	"github.com/VividCortex/protobuf/proto"
+	"github.com/VividCortex/gohbase/pb"
+	. "github.com/VividCortex/gohbase/regioninfo"
 )
 
 // Test parsing the contents of a cell found in meta.

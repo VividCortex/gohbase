@@ -16,9 +16,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/tsuna/gohbase"
-	"github.com/tsuna/gohbase/hrpc"
-	"github.com/tsuna/gohbase/test"
+	"github.com/VividCortex/gohbase"
+	"github.com/VividCortex/gohbase/hrpc"
+	"github.com/VividCortex/gohbase/test"
 	"golang.org/x/net/context"
 )
 

@@ -17,12 +17,12 @@ import (
 
 	log "github.com/Sirupsen/logrus"
 	"github.com/cznic/b"
-	"github.com/golang/protobuf/proto"
-	"github.com/tsuna/gohbase/hrpc"
-	"github.com/tsuna/gohbase/pb"
-	"github.com/tsuna/gohbase/region"
-	"github.com/tsuna/gohbase/regioninfo"
-	"github.com/tsuna/gohbase/zk"
+	"github.com/VividCortex/protobuf/proto"
+	"github.com/VividCortex/gohbase/hrpc"
+	"github.com/VividCortex/gohbase/pb"
+	"github.com/VividCortex/gohbase/region"
+	"github.com/VividCortex/gohbase/regioninfo"
+	"github.com/VividCortex/gohbase/zk"
 	"golang.org/x/net/context"
 )
 

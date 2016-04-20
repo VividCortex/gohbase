@@ -8,7 +8,7 @@ package hrpc
 import (
 	"errors"
 
-	"github.com/tsuna/gohbase/filter"
+	"github.com/VividCortex/gohbase/filter"
 )
 
 // tableOp represents an administrative operation on a table.

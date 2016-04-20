@@ -11,8 +11,8 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/golang/protobuf/proto"
-	"github.com/tsuna/gohbase/pb"
+	"github.com/VividCortex/protobuf/proto"
+	"github.com/VividCortex/gohbase/pb"
 )
 
 // Info describes a region.

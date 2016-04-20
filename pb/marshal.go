@@ -6,7 +6,7 @@
 package pb
 
 import (
-	"github.com/golang/protobuf/proto"
+	"github.com/VividCortex/protobuf/proto"
 )
 
 // MustMarshal is like proto.Marshal except it panic()'s if the protobuf

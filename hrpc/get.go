@@ -6,9 +6,9 @@
 package hrpc
 
 import (
-	"github.com/golang/protobuf/proto"
-	"github.com/tsuna/gohbase/filter"
-	"github.com/tsuna/gohbase/pb"
+	"github.com/VividCortex/protobuf/proto"
+	"github.com/VividCortex/gohbase/filter"
+	"github.com/VividCortex/gohbase/pb"
 	"golang.org/x/net/context"
 )
 

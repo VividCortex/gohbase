@@ -14,9 +14,9 @@ import (
 
 	log "github.com/Sirupsen/logrus"
 
-	"github.com/golang/protobuf/proto"
+	"github.com/VividCortex/protobuf/proto"
 	"github.com/samuel/go-zookeeper/zk"
-	"github.com/tsuna/gohbase/pb"
+	"github.com/VividCortex/gohbase/pb"
 )
 
 // ResourceName is a type alias that is used to represent different resources
